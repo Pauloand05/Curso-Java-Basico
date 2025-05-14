@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Argumentos-Java/Argumentos-Exercicio/src"/>
+	<classpathentry kind="src" path="Argumentos-Java/src"/>
+	<classpathentry kind="src" path="Primeiro-Programa/src"/>
+	<classpathentry kind="src" path="Variaveis"/>
+	<classpathentry kind="output" path="out/production/Argumentos-Exercicio"/>
+</classpath>
