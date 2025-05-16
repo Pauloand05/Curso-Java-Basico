@@ -7,5 +7,6 @@
 	<classpathentry kind="src" path="Variaveis"/>
 	<classpathentry kind="src" path="Tipos-Primitivos"/>
 	<classpathentry kind="src" path="Lendo-Dados-Teclado"/>
+	<classpathentry kind="src" path="Operadores-Aritmeticos"/>
 	<classpathentry kind="output" path="out/production/Argumentos-Exercicio"/>
 </classpath>
