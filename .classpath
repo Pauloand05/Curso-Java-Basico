@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Tipos-Primitivos"/>
 	<classpathentry kind="src" path="Lendo-Dados-Teclado"/>
 	<classpathentry kind="src" path="Operadores-Aritmeticos"/>
+	<classpathentry kind="src" path="Exercicios-Aula-11-12-13"/>
 	<classpathentry kind="output" path="out/production/Argumentos-Exercicio"/>
 </classpath>
